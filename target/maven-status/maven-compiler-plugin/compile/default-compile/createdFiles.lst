@@ -1,0 +1,12 @@
+com/frame/kangan/config/ConfigGeneratorTest.class
+com/frame/kangan/config/FrameRedisConfig.class
+com/frame/kangan/service/impl/QiniuServiceImpl.class
+com/frame/kangan/data/mapper/FrameImageMapper.class
+com/frame/kangan/controller/TestController.class
+com/frame/kangan/data/po/FrameImage.class
+com/frame/kangan/controller/FileController.class
+com/frame/kangan/config/FrameRedisConfig$1.class
+com/frame/kangan/config/FrameHikariConfig.class
+com/frame/kangan/config/AutoGeneratorUser.class
+com/frame/kangan/FrameApplication.class
+com/frame/kangan/service/test.class
